@@ -19,7 +19,7 @@ Hello! I'm **Haribaskaran N**, from Madurai, Tamil Nadu, India 🇮🇳.
 
 I am a Computer Science Engineering graduate from **Mahendra Engineering College, Namakkal**, with a CGPA of **7.75**.
 
-Currently, I am pursuing a **Full Stack Python course at Code 99 Institute**. I am passionate about web development and creating responsive, user-friendly websites.
+Currently, I am pursuing a Full Stack Python . I am passionate about web development and creating responsive, user-friendly websites.
 
 - 🎓 BE Computer Science Engineering
 - 💻 Interested in Web Development
@@ -53,8 +53,6 @@ Currently, I am pursuing a **Full Stack Python course at Code 99 Institute**. I 
 
 **GitHub:** [Hospital Website Repository](https://github.com/YOUR-GITHUB-USERNAME/hospital-website)
 
-**Live Demo:** [View Hospital Website](https://YOUR-GITHUB-USERNAME.github.io/hospital-website/)
-
 ### 2. 🚗 Car Rental Website
 - Developed a multi-page car rental website.
 - Designed car listing pages and website layouts.
@@ -62,7 +60,6 @@ Currently, I am pursuing a **Full Stack Python course at Code 99 Institute**. I 
 
 **GitHub:** [Car Rental Website Repository](https://github.com/YOUR-GITHUB-USERNAME/car-rental-website)
 
-**Live Demo:** [View Car Rental Website](https://YOUR-GITHUB-USERNAME.github.io/car-rental-website/)
 
 ## 📚 Currently Learning
 
@@ -93,5 +90,5 @@ Currently, I am pursuing a **Full Stack Python course at Code 99 Institute**. I 
 - Location: **Tamil Nadu, India 🇮🇳**
 
 <p align="center">
-  <b>Thank you for visiting my GitHub profile! ❤️</b>
+  <b>Thank you for visiting my GitHub profile! </b>
 </p>
