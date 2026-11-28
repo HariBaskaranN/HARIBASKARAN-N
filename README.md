@@ -51,7 +51,7 @@ Currently, I am pursuing a Full Stack Python . I am passionate about web develop
 - Created user-friendly web pages and navigation.
 - Technologies: HTML5, CSS3.
 
-**GitHub:** [Hospital Website Repository](https://github.com/YOUR-GITHUB-USERNAME/hospital-website)
+**GitHub:** [Hospital Website Repository](https://github.com/HariBaskaranN/MULTIPAGE-HOSPITAL-WEBSITE.git)
 
 ### 2. 🚗 Car Rental Website
 - Developed a multi-page car rental website.
